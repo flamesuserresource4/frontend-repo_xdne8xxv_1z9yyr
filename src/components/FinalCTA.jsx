@@ -30,7 +30,7 @@ export default function FinalCTA() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="Enter your email"
-                className="w-full rounded-lg border border-zinc-300/70 bg-white px-4 py-3 text-zinc-900 placeholder-zinc-400 shadow-sm focus:border-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-100"
+                className="w-full rounded-lg border border-zinc-300/70 bg-white px-4 py-3 text-zinc-900 placeholder-zinc-400 shadow-sm focus:border-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-100"
                 aria-label="Email address"
                 required
               />
